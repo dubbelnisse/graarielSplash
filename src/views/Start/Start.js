@@ -7,7 +7,15 @@ export class StartPage extends Component {
   render () {
     return (
       <div style={{height: window.innerHeight + 'px'}} styleName="wrap">
-        <p>graariel.com</p>
+        <div styleName="info">
+          <div>
+            <img src="static/images/logo.jpg" styleName="logo" />
+          </div>
+          <div>
+            <p>E-mail: sven.carlsson@graariel.com</p>
+            <p>Tel: +46 708-53 24 32</p>
+          </div>
+        </div>
       </div>
     )
   }
