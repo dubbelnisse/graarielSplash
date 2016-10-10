@@ -14,6 +14,7 @@ export class StartPage extends Component {
           <div>
             <p>E-mail: sven.carlsson@graariel.com</p>
             <p>Tel: +46 708-53 24 32</p>
+            <p>In progress</p>
           </div>
         </div>
       </div>
